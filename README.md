@@ -12,14 +12,14 @@ To make a bot work, install aiogram library.
 
 ## Usage
 
-<li>Enter your telegram bot's token<li>
+<li>Enter your telegram bot's token</li>
 
-""" py
+``` py
 bot = Bot(token="YOUR TOKEN")
-"""
+```
 
-<li>Run main.py<li>
+<li>Run main.py</li>
 
-""" py
+``` py
 pytnon run main.py
-"""
+```
