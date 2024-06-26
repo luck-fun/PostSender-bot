@@ -1,4 +1,4 @@
-# PostSender-bot
+# PostSender-bo
 
 Bot to make safety for your telegram channel
 
